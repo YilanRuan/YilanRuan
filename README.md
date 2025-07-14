@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a deals consultant in PWC
 - 🌱 I’m currently learning data analytics and user interface design 
-- 📫 How to reach me: yilanruan@gmail.com
+- 📫 How to reach me: Yilanruan1@gmail.com
 - ⚡ Fun fact: I'm super into labubus!!
  <img src="https://dolls.moe/cdn/shop/files/original-labubu-have-a-seat-dodo-secret-277047.jpg?v=1744111194" alt="Labubu" width="200" height="300">
 <!--
