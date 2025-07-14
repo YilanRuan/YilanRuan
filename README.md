@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning data analytics and user interface design 
 - 📫 How to reach me: yilanruan@gmail.com
 - ⚡ Fun fact: I'm super into labubus!!
-[![Labubu Mascot]](https://dolls.moe/cdn/shop/files/original-labubu-have-a-seat-dodo-secret-277047.jpg?v=1744111194)
+ <img src="https://dolls.moe/cdn/shop/files/original-labubu-have-a-seat-dodo-secret-277047.jpg?v=1744111194" alt="Labubu" width="500" height="600">
 <!--
 **YilanRuan/YilanRuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
