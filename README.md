@@ -1,11 +1,11 @@
-## Hi there 👋
+## Yilan Ruan ✨✨✨
 👋 Hi, I’m Yilan Ruan — a recent Business Analytics graduate from Boston University with experience spanning consulting, product management, and financial analysis. I'm passionate about using data-driven insights to solve complex business problems and am actively exploring opportunities in business analytics roles. My time at PwC as a Deals Consultant has strengthened my communication and stakeholder management skills, especially through client-facing presentations and cross-functional coordination. Whether it’s SQL queries or strategic PowerPoint decks, I enjoy bridging the gap between technical analysis and business impact.
 
 - 🔭 I’m currently working as a deals consultant in PWC
 - 🌱 I’m currently learning data analytics and user interface design 
 - 📫 How to reach me: yilanruan@gmail.com
 - ⚡ Fun fact: I'm super into labubus!!
- <img src="https://dolls.moe/cdn/shop/files/original-labubu-have-a-seat-dodo-secret-277047.jpg?v=1744111194" alt="Labubu" width="500" height="600">
+ <img src="https://dolls.moe/cdn/shop/files/original-labubu-have-a-seat-dodo-secret-277047.jpg?v=1744111194" alt="Labubu" width="200" height="300">
 <!--
 **YilanRuan/YilanRuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
